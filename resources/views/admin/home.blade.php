@@ -1,1 +1,1 @@
-ciao
+@extends('layouts.app')
